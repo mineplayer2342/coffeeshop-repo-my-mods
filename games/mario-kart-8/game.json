@@ -1,90 +1,85 @@
 {
-  "name": "Mario Kart 8",
-  "icon": "https://cdn2.steamgriddb.com/icon_thumb/ac1ad983e08ad3304a97e147f522747e.png",
+  "name": "Mario kart 8",
+  "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b0/Mario_Kart_8_Logo.png/revision/latest?cb=20221027212803",
   "titleIds": [
-    "000500001010EB00",
-    "000500001010EC00",
-    "000500001010ED00"
+    "0005000C1010EC00"
   ],
   "mods": [
     {
-      "id": "dummydum-mod",
-      "name": "Dummy Mod",
+      "id": "dark-sanctuary-wii-u-port",
+      "name": "Dark Sanctuary (Wii U port)",
       "type": "mod",
-      "version": "1.0.0",
-      "author": "ExampleUser",
-      "description": "A simple example mod that demonstrates the basic structure of a CupStore mod entry.",
-      "thumbnail": "https://picsum.photos/seed/mk8mod1/400/225",
+      "version": "1.0",
+      "author": "TheBestestJoe",
+      "description": "This is a port of Dark Sanctuary, a Mario Kart DS custom track by elHongo14 based on Deltarune chapter 4. This is based on my previous switch port of the track with some changes to account for the lack of BCP materials and objects. Some elements of this port, such as coin placement, were inspired by the Mario Kart 7 port by Necrozma.",
+      "download": "https://gamebanana.com/dl/1805565",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6a98bf3a2ce35_530.webp",
       "screenshots": [
-        "https://picsum.photos/seed/mk8mod1a/800/450",
-        "https://picsum.photos/seed/mk8mod1b/800/450"
+        "https://images.gamebanana.com/img/ss/mods/6a98bef843513.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a98bef864312.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a98bef893bd1.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a98bef8af487.jpg"
       ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-01-15",
-      "license": "CC BY-NC",
-      "tags": ["skin"],
-      "fileSize": 204800,
-      "requirements": [],
-      "changelog": "1.0.0 - Initial release"
+      "tags": [
+        "Audacity",
+        "Blender",
+        "Paint.NET",
+        "GIMP",
+        "Photopea",
+        "Citric Composer",
+        "Switch Toolbox",
+        "Track Studio"
+      ]
     },
     {
-      "id": "custom-music-pack",
-      "name": "Custom Music Pack",
-      "type": "mod",
-      "version": "2.1.0",
-      "author": "MusicModder",
-      "description": "Replaces all in-game music with custom tracks. Over 40 songs included.",
-      "thumbnail": "https://picsum.photos/seed/mk8music/400/225",
-      "screenshots": [
-        "https://picsum.photos/seed/mk8musica/800/450",
-        "https://picsum.photos/seed/mk8musicb/800/450"
-      ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-03-10",
-      "license": "CC BY-NC-SA",
-      "tags": ["music"],
-      "fileSize": 52428800,
-      "changelog": "2.1.0 - Added 10 new tracks\n2.0.0 - Full soundtrack replacement\n1.0.0 - Initial release"
-    },
-    {
-      "id": "retro-track-pack",
-      "name": "Retro Track Textures",
-      "type": "mod",
-      "version": "1.3.2",
-      "author": "RetroFan",
-      "description": "Gives all retro cups a classic low-poly aesthetic inspired by older Mario Kart titles.",
-      "thumbnail": "https://picsum.photos/seed/mk8retro/400/225",
-      "screenshots": [
-        "https://picsum.photos/seed/mk8retroa/800/450",
-        "https://picsum.photos/seed/mk8retrob/800/450",
-        "https://picsum.photos/seed/mk8retroc/800/450"
-      ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-02-20",
-      "license": "CC BY",
-      "tags": ["course", "texture"],
-      "fileSize": 10485760,
-      "changelog": "1.3.2 - Fixed UV mapping on Koopa Troopa Beach\n1.3.0 - Added Rainbow Road retro style\n1.0.0 - Initial release"
-    },
-    {
-      "id": "ultimate-bundle",
-      "name": "Ultimate MK8 Bundle",
+      "id": "mario-kart-8-ultimate",
+      "name": "Mario Kart 8 Ultimate (might be broken)",
       "type": "modpack",
-      "version": "1.0.0",
-      "author": "ExampleUser",
-      "description": "A curated bundle combining the Custom Music Pack and Retro Track Textures into one install.",
-      "thumbnail": "https://picsum.photos/seed/mk8bundle/400/225",
+      "version": "1.0",
+      "author": "MikaDubbz",
+      "description": "modpack reuploaded since the link on gbatemps is ded :D",
+      "download": "https://gamebanana.com/dl/1112748",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6590909f4372c.jpg",
       "screenshots": [
-        "https://picsum.photos/seed/mk8bundlea/800/450"
+        "https://images.gamebanana.com/img/ss/mods/659090fb143a0.jpg"
+      ]
+    },
+    {
+      "id": "mariokart-generations",
+      "name": "MarioKart Generations",
+      "type": "modpack",
+      "version": "1.3.1",
+      "author": "UNREALII-",
+      "description": "The Newest Mario kart 8 Modpack!\n\nMario Kart Generations.\n\nIncludes:\n-Custom Menu's\n-48 Custom Tracks!\n-Custom Music",
+      "download": "https://drive.google.com/file/d/1cdf3QlOlSvIJD6ana07hT5NgG58fagxR/view",
+      "thumbnail": "https://images.gamebanana.com/img/ss/wips/6474e711986c9.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/wips/662081511af92.jpg",
+        "https://images.gamebanana.com/img/ss/wips/662081513c3ab.jpg",
+        "https://images.gamebanana.com/img/ss/wips/6620815041d9e.jpg",
+        "https://images.gamebanana.com/img/ss/wips/662081526c9f9.jpg",
+        "https://images.gamebanana.com/img/ss/wips/661c201f6a3be.jpg"
       ],
-      "includes": [
-        "custom-music-pack",
-        "retro-track-pack"
+      "tags": [
+        "tag"
+      ]
+    },
+    {
+      "id": "mario-kart-all-stars",
+      "name": "Mario Kart ALL STARS (warning memes)",
+      "type": "modpack",
+      "version": "2.1",
+      "author": "i don't want to list all of them",
+      "description": "little silly modpack with some silly characters\n\nI made this modpack for my personal use, and though it would be fun to upload it.\n\nI haven't made most of the mods used in the modpack, if you want to credit someone, credit the mods creators instead.\n\nI don't exactly remember what mods I have put in it, so if you see your mod in my modpack, please contact me so I can add your name in the credits (my username is mukfall on Discord).\n\nI made two versions of the modpack : one with custom tracks (wich I don't recommend playing in multiplayer, it's very laggy) and one with vanilla tracks.\n\nThe Sonic character is an invisible character. To play with Sonic, pick the Sonic character then pick the horse-thing kart, and the blue wheels wich are also invisible.\n\nSome characters do not have custom ui.\n\nThe \"Vanilla Tracks\" version of this modpack is online safe, though the \"Custom Tracks\" version is not.\n\nCustom tracks list :\n\nWaterpark : Coconut mall\nCake : Green Hill Zone\nPeach circuit : A track from Sonic R\nWario Stadium : Diamond city\nSNES Rainbow road : Another track from Sonic R\nWii U Rainbow road : Cyber Road\nToad Harbor : Delfino Isle",
+      "download": "https://gamebanana.com/dl/1681710",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/69e3e70fb65a7.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/66294cd4beffc.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66294ce083947.jpg"
       ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-04-01",
-      "tags": ["music", "course", "texture"],
-      "fileSize": 62914560
+      "tags": [
+        "Tag"
+      ]
     }
   ]
 }
