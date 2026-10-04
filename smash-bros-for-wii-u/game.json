@@ -1,0 +1,96 @@
+{
+  "name": "Smash bros for wii u",
+  "icon": "https://github.com/mineplayer2342/coffeeshop-repo-mariokart-test/blob/main/games/mario-kart-8/Wii%20U%20-%20Super%20Smash%20Bros.%20for%20Wii%20U%20-%20Miscellaneous%20-%20GamePad%20Banner%20and%20HOME%20Menu%20Icon.png?raw=true",
+  "titleIds": [
+    "0005000010144F00"
+  ],
+  "mods": [
+    {
+      "id": "kermit",
+      "name": "Kermit for smash",
+      "type": "mod",
+      "version": "IDK",
+      "author": "HeroTechne",
+      "description": "Wifi Safe\n\nWhat's Included:\nKermit Model\nKermit SFX\nRecolors\nUI (CSPs, BPs, stock icons, and etc.)\nCustom Series Emblem\nAnnouncer Call\nVictory Theme\nBoxer Alias",
+      "download": "https://gamebanana.com/dl/197442",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/58cca26e43006.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/58c3235e5a0c2.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c323628c853.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c32364c82bc.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c32366d9cde.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c3236a06cfb.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c3236e8d44e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c32371767f6.jpg"
+      ],
+      "tags": [
+        "Imported",
+        "Custom",
+        "Final/Stable",
+        "CSP"
+      ]
+    },
+    {
+      "id": "paper-mario-ttyd-battle-stage",
+      "name": "Paper Mario TTYD Battle Stage",
+      "type": "mod",
+      "version": "3",
+      "author": "ThatNintendoNerd",
+      "description": "Battle your foes here, on Paper Mario: The Thousand Year Door's theater! A crowd that is so very pumped to see who is victorious! This stage goes over omega Duck Hunt.\n\nFeatures:\nA custom cubemap, so your metal characters can have an accurate reflection to the stage.\nA full set of UI.\nAn animated crowd.\nI recommend the Battle theme for this stage as it is the most fitting from the game.\n\nThe stage is Wi-Fi safe as the scale was referenced from omega Duck Hunt. Keep in mind that there is a STPRM included with the download. It has been tested online and confirmed to not cause desyncs.\n\nPlease let me know about any issues or things bugging you that I can fix!\n\nCheers!",
+      "download": "https://gamebanana.com/dl/403380",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5c02f1a23a35b.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5c02f1a41efcf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5c02f1a5a8f4e.jpg"
+      ],
+      "tags": [
+        "Medium",
+        "Final"
+      ]
+    },
+    {
+      "id": "clay-kirby",
+      "name": "Clay kirby",
+      "type": "mod",
+      "version": "2",
+      "author": "AAnxietyy",
+      "description": "This is Kirby from Kirby and The Rainbow Curse. It comes with expressions, metal model, and copy abilities. Right now there are no csps and alt costumes, however they will be added soon. Someone has been making a csp however It needed some improvements. I don't know if this person is still working on it or not but I'll give it a few days or until this person replys again soon. This mod should be wifi safe. It should be able to go over any slot as well. It's recommended that you put it in one of the original 8 slots because if you put the mod in an extra slot, there is a glitch where if you use a copy ability, kirby will go into T-pose and get stuck. Also make sure you add the copy abilities too for your game might crash if you don't. One problem that this mod has is that the WiiFit copy ability will make kirby's eyes not blink for some reason. The blinking animation is there, but the eyes don't close. I don't know how to fix it, so if anyone knows why, feel free to tell me. With all of that said I hope you enjoy the mod. I've made a csp now, however if you don't like it, someone made another csp here. I have toned down the brightness a bit. I don't know if I need to tone it down more, or if this is good enough. Now all I need to do that I know of right now is fix that wiifit problem if possible and add recolors.",
+      "download": "https://gamebanana.com/dl/199283",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/58c34ba929df4.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/58c34af036daf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b103b285.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b1eda4c2.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b37e0d93.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b4c472ca.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b61b89ef.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b74b07e9.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b83db798.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b939cd33.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58c34b9f891ad.jpg",
+        "https://images.gamebanana.com/img/ss/mods/584f4af949745.jpg"
+      ],
+      "tags": [
+        "Custom",
+        "Wifi Safe"
+      ]
+    },
+    {
+      "id": "the-amazing-mirror-hub-stage",
+      "name": "The Amazing Mirror Hub stage",
+      "type": "mod",
+      "version": "IDK",
+      "author": "AmazeeLuck",
+      "description": "Edited version of The Amazing Mirror Hub.\nAll credit goes to CasyFam, the creator of this stage.\nSee the original submission's page for details.\n\nThis edit has grabbable ledges on the outer sides of all platforms.\n\nReplaces Omega Great Cave Offensive. Not WiFi-safe.",
+      "download": "https://gamebanana.com/dl/377651",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5abb1cb13f080.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5abb1cb570f7f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5abb1cb518b4d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5abb1cb5d03fd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5abb1cb591422.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5abb1cb63e909.jpg"
+      ]
+    }
+  ]
+}
